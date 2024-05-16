@@ -3,4 +3,4 @@
 
  b) Cuando lo compare con un compañero vimos que hay una diferencia de unos milisegundos osea que no son iguales.
 
- c) La diferencia que hay en este codigo es que al tener los # el codigo tarda más en ejecutarse, pero si sacamos los # es más rapida la ejecucion.
+ c) La diferencia que hay en este codigo es que al estar los comentarios es más rapida la ejecucion, en cambio al no estar los comentarios hay una funcion que recorre un cierto rango de numeros, y esto hace que tarde más.
